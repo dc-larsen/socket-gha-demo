@@ -1,0 +1,7 @@
+{
+  "name": "socket-gha-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Tests passed\""
+  }
+}
