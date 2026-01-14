@@ -65,4 +65,4 @@ After verifying, you can keep or delete the forked repository.
 
 ## Questions?
 
-Contact your Socket account team.
+Contact your Socket account team or email support@socket.dev.
