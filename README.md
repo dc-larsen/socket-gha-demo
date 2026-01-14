@@ -6,6 +6,8 @@ Verify that Socket's GitHub Actions scanning is working on your organization.
 
 This repository contains a simple workflow using standard GitHub Actions (`actions/checkout`, `actions/setup-node`). Socket's GitHub App scans the workflow and surfaces the behaviors these actions perform.
 
+Learn more about GitHub Actions scanning: [Introducing GitHub Actions Scanning Support](https://socket.dev/blog/introducing-github-actions-scanning-support)
+
 ## Setup Instructions
 
 ### 1. Fork this repository
